@@ -13,7 +13,7 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"EngineVersion": "4.27.0",
+	"EngineVersion": "5.1.0",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e3f025f0cbf34b12b3fa2719f37ef522",
 	"Modules": [
 		{
