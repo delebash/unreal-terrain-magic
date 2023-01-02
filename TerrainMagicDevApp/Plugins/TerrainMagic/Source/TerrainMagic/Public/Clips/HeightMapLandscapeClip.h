@@ -70,4 +70,7 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="02-Layer Painting")
 	TArray<FLandscapeClipPaintLayerSettings> PaintLayerSettings = {};
+
+	UFUNCTION(BlueprintCallable, CallInEditor, Category="TerrainMagic")
+	void MatchLandscapeSize(AHeightMapLandscapeClip* Clip);
 };

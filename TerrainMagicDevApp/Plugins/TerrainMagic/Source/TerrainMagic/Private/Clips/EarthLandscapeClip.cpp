@@ -222,7 +222,14 @@ void AEarthLandscapeClip::DownloadTile(TFunction<void(FEarthTileDownloadStatus)>
 		});
 	});
 }
-
+void AEarthLandscapeClip::ImportTile(AEarthLandscapeClip* Clip)
+{
+	if (Clip)
+	{
+		Clip->DownloadTile();
+		UE_LOG(LogTemp, Display, TEXT("Downloding Tile: %s"), *Clip->GetName())
+	}
+}
 #if WITH_EDITOR
 void AEarthLandscapeClip::PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent)
 {

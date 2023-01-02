@@ -84,3 +84,11 @@ TArray<FLandscapeClipPaintLayerSettings> AHeightMapLandscapeClip::GetPaintLayerS
 {
 	return PaintLayerSettings;
 }
+
+void AHeightMapLandscapeClip::MatchLandscapeSize(AHeightMapLandscapeClip* Clip)
+{
+	if (Clip)
+	{
+		Clip->_MatchLandscapeSize();
+	}
+}
