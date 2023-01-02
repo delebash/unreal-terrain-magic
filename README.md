@@ -1,6 +1,6 @@
 # NOTE:  
 
-This is a specific version of GDi4K/unreal-terrain-magic for use with my plugin unreal mapbox bridge https://github.com/delebash/UnrealMapboxBridgePlugin. It has a couple of changes just to expose some functions to blueprints no other changes.  Please purchase from marketplace if you like it.
+This is a specific version of https://github.com/GDi4K/unreal-terrain-magic for use with my plugin unreal mapbox bridge https://github.com/delebash/UnrealMapboxBridgePlugin. It has a couple of changes just to expose some functions to blueprints no other changes.  Please purchase from marketplace if you like it.
 
 
 # Terrain Magic for Unreal Engine
