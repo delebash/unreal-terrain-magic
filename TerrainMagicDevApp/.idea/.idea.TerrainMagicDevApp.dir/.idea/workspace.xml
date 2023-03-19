@@ -8,6 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="238d42ae-4bab-4ce6-8486-228786f64707" name="Changes" comment="Refactor Material locations.">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TerrainMagicDevApp.dir/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TerrainMagicDevApp.dir/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TerrainMagicDevApp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TerrainMagicDevApp.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +52,9 @@
       <configuration_2>
         <option name="CONFIGURATION" value="DebugGame Editor" />
         <option name="PLATFORM" value="Win64" />
-        <option name="EXECUTABLE_PATH" value="" />
-        <option name="WORKING_DIRECTORY" value="" />
-        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="EXECUTABLE_PATH" value="F:\Program Files\Epic Games\UE_5.1\Engine\Binaries\Win64\UnrealEditor-Win64-DebugGame.exe" />
+        <option name="WORKING_DIRECTORY" value="F:\Program Files\Epic Games\UE_5.1" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;F:\3DProjects\github\DansProjects\unreal-terrain-magic\TerrainMagicDevApp\TerrainMagicDevApp.uproject&quot;" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -61,8 +62,8 @@
       <configuration_3>
         <option name="CONFIGURATION" value="DebugGame" />
         <option name="PLATFORM" value="Win64" />
-        <option name="EXECUTABLE_PATH" value="" />
-        <option name="WORKING_DIRECTORY" value="" />
+        <option name="EXECUTABLE_PATH" value="F:\3DProjects\github\DansProjects\unreal-terrain-magic\TerrainMagicDevApp\Binaries\Win64\TerrainMagicDevApp-Win64-DebugGame.exe" />
+        <option name="WORKING_DIRECTORY" value="F:\Program Files\Epic Games\UE_5.1" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
@@ -71,9 +72,9 @@
       <configuration_4>
         <option name="CONFIGURATION" value="Development Editor" />
         <option name="PLATFORM" value="Win64" />
-        <option name="EXECUTABLE_PATH" value="" />
-        <option name="WORKING_DIRECTORY" value="" />
-        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="EXECUTABLE_PATH" value="F:\Program Files\Epic Games\UE_5.1\Engine\Binaries\Win64\UnrealEditor.exe" />
+        <option name="WORKING_DIRECTORY" value="F:\Program Files\Epic Games\UE_5.1" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;F:\3DProjects\github\DansProjects\unreal-terrain-magic\TerrainMagicDevApp\TerrainMagicDevApp.uproject&quot;" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -81,8 +82,8 @@
       <configuration_5>
         <option name="CONFIGURATION" value="Development" />
         <option name="PLATFORM" value="Win64" />
-        <option name="EXECUTABLE_PATH" value="" />
-        <option name="WORKING_DIRECTORY" value="" />
+        <option name="EXECUTABLE_PATH" value="F:\3DProjects\github\DansProjects\unreal-terrain-magic\TerrainMagicDevApp\Binaries\Win64\TerrainMagicDevApp.exe" />
+        <option name="WORKING_DIRECTORY" value="F:\Program Files\Epic Games\UE_5.1" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
@@ -91,8 +92,8 @@
       <configuration_6>
         <option name="CONFIGURATION" value="Shipping" />
         <option name="PLATFORM" value="Win64" />
-        <option name="EXECUTABLE_PATH" value="" />
-        <option name="WORKING_DIRECTORY" value="" />
+        <option name="EXECUTABLE_PATH" value="F:\3DProjects\github\DansProjects\unreal-terrain-magic\TerrainMagicDevApp\Binaries\Win64\TerrainMagicDevApp-Win64-Shipping.exe" />
+        <option name="WORKING_DIRECTORY" value="F:\Program Files\Epic Games\UE_5.1" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
         <option name="PASS_PARENT_ENVS" value="1" />
@@ -133,6 +134,8 @@
       <workItem from="1672687818640" duration="4000" />
       <workItem from="1672687846575" duration="7000" />
       <workItem from="1672687880241" duration="8000" />
+      <workItem from="1679240579682" duration="72000" />
+      <workItem from="1679240791415" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="Update the devapp.">
       <created>1669265451183</created>
